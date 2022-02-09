@@ -1,4 +1,4 @@
-#include management.h
+#include "management.h"
 
 
 void namefun(){
@@ -91,7 +91,7 @@ void deletefun(){
 	fptr1=fopen("temp.txt","r");
 	while(fscanf(fptr1,"%s %s %lf\n",name,gmail,&phone)!=EOF)
     {
-		fprintf(fptr,"%s %s %s %s %.0lf\n",name,gmail,phone);
+		fprintf(fptr,"%s %s %.0lf\n",name,gmail,phone);
 
 	}
 	fclose(fptr);
