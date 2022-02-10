@@ -1,5 +1,5 @@
-#include management.h
-#include management.c
+#include <management.h>
+#include <management.c>
 
 void menu(void);
 void password(void);

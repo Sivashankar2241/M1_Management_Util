@@ -1,5 +1,8 @@
-#include "management.h"
+#include <management.h>
 
+#include <stdio.h>;
+#include <conio.h>;
+#include <string.h>;
 
 void namefun(){
 	system("cls");
