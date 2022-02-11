@@ -1,4 +1,7 @@
 # M1_Management_Util
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/24251ffe085e41c2b95ac2fdbb9ca07a)](https://app.codacy.com/gh/Sivashankar2241/M1_Management_Util?utm_source=github.com&utm_medium=referral&utm_content=Sivashankar2241/M1_Management_Util&utm_campaign=Badge_Grade_Settings)
+
 A simple code in C to Managing logs
 
 # Definig System
