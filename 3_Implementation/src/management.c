@@ -1,7 +1,6 @@
-#include <stdio.h>;
-#include <conio.h>;
-#include <string.h>;
-#include <management.h>
+#include <stdio.h>
+#include <string.h>
+#include "management.h"
 
 void namefun(){
 	system("cls");
