@@ -29,7 +29,7 @@ More Count in having Admin access leads to Data insecure
 * How: Recieves Data Form the Admin and Gives the List Of Data
 
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9f141623d9c14b57bfd9c9e571659ea3)](https://www.codacy.com/gh/Sivashankar2241/M1_Management_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sivashankar2241/M1_Management_Util&amp;utm_campaign=Badge_Grade)
 
 
 
